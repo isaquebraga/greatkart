@@ -14,8 +14,4 @@ six==1.15.0
 sqlparse==0.3.1
 urllib3==1.26.3
 gunicorn==19.9.0
-<<<<<<< HEAD
 django-heroku==0.3.1
-=======
-django-heroku==0.3.1
->>>>>>> 557271081d58bff2d68803ec46df6d2c96c873c0
